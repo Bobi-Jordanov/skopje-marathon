@@ -106,7 +106,7 @@ sk-marathon-web/               (React frontend)
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/marathon_db
    spring.datasource.username=postgres
-   spring.datasource.password=yourpassword
+   spring.datasource.password=your_password
    spring.jpa.hibernate.ddl-auto=update
    spring.jpa.show-sql=true
    ```
