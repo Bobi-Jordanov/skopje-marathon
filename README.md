@@ -29,12 +29,6 @@ Validation (Jakarta Validation)
 - **Run With Us** — a public page listing all successfully paid participants,
   with search-by-name and category filtering.
 
-### Not implemented
-
-- Organizer accounts, race creation/management, and ratings/comments (the
-  second bonus feature) were left out due to time constraints. This would
-  require introducing Spring Security, user roles, and a `Race` entity, which
-  is a substantial addition beyond the core scope.
 
 ## Project Structure
 
